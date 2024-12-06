@@ -12,3 +12,4 @@ Um projeto simples de piano virtual desenvolvido com HTML5, CSS3 e JavaScript. E
 - Interface responsiva e estilizada para facilitar a interação do usuário.
 - Controle de volume e opção para exibir ou ocultar o nome das teclas (a ser expandido em futuras versões).
 
+https://thamiresvs.github.io/piano-virtual/
